@@ -1,15 +1,15 @@
 # React-Ionic-boilerplate
 
 
-This Is simple ionic boileplate.
+>This Is simple ionic boileplate.Ionic components with react for practice.
 
 components
-1.sidebnav
-2.Footer tab
-3.card
-4.page routing
-5.Segment-"switching tab"
-6.Modal
-7.Login
-8.Registration
-9.comming..
+1.sidebnav<br>
+2.Footer tab<br>
+3.card<br>
+4.page routing<br>
+5.Segment-"switching tab"<br>
+6.Modal<br>
+7.Login<br>
+8.Registration<br>
+9.comming..<br>
